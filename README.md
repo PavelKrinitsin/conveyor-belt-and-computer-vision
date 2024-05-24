@@ -2,7 +2,7 @@
 A model for detecting conveyor belt defects using computer vision
 
 <p align="center">
-    <img src="https://github.com/PavelKrinitsin/conveyor-belt-and-computer-vision/blob/main/1.jpg" width="300">
+    <img src="https://github.com/PavelKrinitsin/conveyor-belt-and-computer-vision/blob/main/1.png" width="300">
 </p>
 
 ## Description
