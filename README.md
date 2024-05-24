@@ -36,7 +36,7 @@ ___
 ## Results
 Предварительные результаты исследования:
 
-<p align="left">
+<p align="center">
     <img src="https://github.com/PavelKrinitsin/conveyor-belt-and-computer-vision/blob/main/2.png" width="300">
 </p>
 
